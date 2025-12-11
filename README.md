@@ -43,6 +43,26 @@ TypeScript/JavaScript · HTML · CSS · TailwindCSS · WebRTC · Three.js
 
 ---
 
+#### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhilash26&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+</div>
+
+#### 🔝 Most Used Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash26&layout=compact&langs_count=10&theme=default"/>
+</div>
+
+#### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash26&theme=default&hide_border=false" />
+</div>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhilash-sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash-sri" height="30" width="40" /></a>
