@@ -1,55 +1,39 @@
-<h1 align="center">👋 Hi, I'm Abhilash!</h1>
-<h3 align="center">Backend Engineer • DevOps Engineer • API Engineer</h3>
+<h1 align="center">👋 Hey, I'm Abhilash</h1>
+<h3 align="center">Backend Engineer • DevOps • API Engineering</h3>
 
----
+### 🚀 About Me
+Backend engineer with 7+ years of experience building reliable systems, APIs, and cloud deployments.  
+I enjoy simplifying architectures, improving performance, and automating workflows that make life easier for developers and teams.
 
-### 🚀 About Me   
-I'm a backend engineer with 7+ years of experience working on scalable systems, APIs, cloud deployments, automation workflows and AI-driven data processing.
-I enjoy designing clean architectures, solving performance bottlenecks, and automating everything that can be automated. I’ve also led small engineering teams, focusing on code quality, collaboration, and reliable delivery.
+### 👀 What I'm Interested In
+I love refining pipelines, improving developer experience, and making systems faster, clearer, and more predictable.
 
----
+### 🛠 Tech I Work With
 
-### 👀 Interests
-I’m interested in improving developer experience and system performance. I enjoy refining pipelines and workflows to make them smarter, more efficient, and more reliable.
+**Backend**  
+Node.js · Express · Laravel · Python · Golang · REST APIs · JWT · OAuth2
 
----
+**DevOps / Cloud**  
+Docker · Kubernetes · GitHub Actions · Jenkins · Nginx · AWS · OpenShift · DigitalOcean · Linode · Vault
 
-### 🛠 Tech Stack
+**Databases**  
+MySQL · PostgreSQL · SQLite · Redis
 
-**Backend:**  
-Node.js · Express.js · Laravel (PHP) · Python · Golang · REST APIs · JWT · OAuth 2.0  
+**Tools & APIs**  
+OpenAPI/Swagger · Postman · CI/CD · Monitoring · ELK
 
-**DevOps & Cloud:**  
-Docker · Kubernetes · Github Actions · Jenkins · Nginx · AWS · OpenShift · DigitalOcean · Linode · Hashicorp Vault
+**Frontend (when needed)**  
+TypeScript/JavaScript · HTML · CSS · Tailwind · WebRTC · Three.js
 
-**Databases:**  
-MySQL · PostgreSQL · SQLite · Redis  
+### 🔧 Things I Build
+- Backend services and APIs  
+- Automation and CI/CD pipelines  
+- Cloud deployments  
+- ETL/data workflows (including AI-assisted pipelines)  
+- Real-time features (WebRTC, WebSockets)
 
-**API & Tools:**  
-Swagger/OpenAPI · Postman · CI/CD · Monitoring · ELK Stack  
+### 🌐 Connect
+👉 **LinkedIn:** https://linkedin.com/in/abhilash-sri
 
-**Frontend:**  
-TypeScript/JavaScript · HTML · CSS · TailwindCSS · WebRTC · Three.js
-
----
-
-### 🔧 What I Build
-- Scalable backend architectures  
-- REST APIs & microservices  
-- CI/CD pipelines & automation  
-- Cloud-native deployments  
-- AI-powered ETL/data pipelines  
-- Real-time apps (WebRTC, WebSockets)  
-
----
-
-### 🌐 Connect with Me
-🔗 [LinkedIn](https://linkedin.com/in/abhilash-sri)
-
-### 💖 Support
-☕ [Buy me a coffee](https://ko-fi.com/dinodroid)
-
-</div>
-
----
-
+### ☕ Support
+If you’d like: https://ko-fi.com/dinodroid
