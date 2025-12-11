@@ -5,10 +5,10 @@
 Backend engineer with 7+ years of experience building reliable systems, APIs, and cloud deployments.  
 I enjoy simplifying architectures, improving performance, and automating workflows that make life easier for developers and teams.
 
-### 👀 What I'm Interested In
+### 🧪 What I'm Interested In
 I love refining pipelines, improving developer experience, and making systems faster, clearer, and more predictable.
 
-### 🛠 Tech I Work With
+### 🧰 Tech I Work With
 
 **Backend**  
 Node.js · Express · Laravel · Python · Golang · REST APIs · JWT · OAuth2
@@ -25,15 +25,15 @@ OpenAPI/Swagger · Postman · CI/CD · Monitoring · ELK
 **Frontend (when needed)**  
 TypeScript/JavaScript · HTML · CSS · Tailwind · WebRTC · Three.js
 
-### 🔧 Things I Build
+### 🛠️ Things I Build
 - Backend services and APIs  
 - Automation and CI/CD pipelines  
 - Cloud deployments  
 - ETL/data workflows (including AI-assisted pipelines)  
 - Real-time features (WebRTC, WebSockets)
 
-### 🌐 Connect
-👉 **LinkedIn:** https://linkedin.com/in/abhilash-sri
+### 🌐 Connect 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash-sri)
 
-### ☕ Support
-If you’d like: https://ko-fi.com/dinodroid
+### ☕ Support 
+[![Ko-fi Badge](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/dinodroid)
