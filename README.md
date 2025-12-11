@@ -5,8 +5,7 @@
 
 ### 🚀 About Me   
 I'm a backend engineer with 7+ years of experience working on scalable systems, APIs, cloud deployments, automation workflows and AI-driven data processing.
-I enjoy designing clean architectures, solving performance bottlenecks, and automating everything that can be automated.  
-I’ve also led small engineering teams, focusing on code quality, collaboration, and reliable delivery.
+I enjoy designing clean architectures, solving performance bottlenecks, and automating everything that can be automated. I’ve also led small engineering teams, focusing on code quality, collaboration, and reliable delivery.
 
 ---
 
@@ -39,18 +38,15 @@ TypeScript/JavaScript · HTML · CSS · TailwindCSS · WebRTC · Three.js
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhilash-sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash-sri" height="30" width="40" /></a>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhilash26&show_icons=true&theme=tokyonight&hide_border=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash26&layout=compact&theme=tokyonight&hide_border=true)
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/dinodroid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dinodroid" /></a></p><br><br>
 
 </div>
-
----
-
-### 🌐 Connect  
-[LinkedIn](https://linkedin.com/in/abhilash-sri)
 
 ---
 
