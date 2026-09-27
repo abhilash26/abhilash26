@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer • DevOps • API Engineering</h3>
 
 ### 🧑‍💼 About Me
-Backend engineer with 7+ years of experience crafting reliable, scalable systems, APIs, and cloud deployments.  
+Backend engineer with 8+ years of experience crafting reliable, scalable systems, APIs, and cloud deployments.  
 I’m passionate about simplifying complex architectures, improving performance, and automating workflows to make life easier for developers and teams.  
 I’m always eager to learn and grow, and believe in the power of collaboration and humility to build great products and strong teams.
 
