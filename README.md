@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Abhilash</h1>
-<h3 align="center">Backend Engineer • DevOps • API Engineering</h3>
+<h3 align="center">Backend Engineer • DevOps • API Engineer</h3>
 
 ### 🧑‍💼 About Me
 Backend engineer with 8+ years of experience crafting reliable, scalable systems, APIs, and cloud deployments.  
